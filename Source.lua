@@ -7,6 +7,7 @@
 		
 		[https://discord.gg/karvscripts] - where im usally
 ]]
+
 local LocalPlayer = game:GetService('Players').LocalPlayer;
 local Mouse = LocalPlayer:GetMouse();
 local InputService = game:GetService('UserInputService');
